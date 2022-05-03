@@ -1,8 +1,10 @@
 bin: main.c
-	gcc -o bin main.c -lpthread
+	gcc -o $@ $< -lpthread
+
+.PHONY:
 
 run: bin
-	./bin
+	./$<
 
-clean:
-	rm bin
+clean: bin
+	rm $<
