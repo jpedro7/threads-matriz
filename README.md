@@ -11,7 +11,7 @@ Este repositório tem um programa em C que soma todos os valores de uma matriz d
 
 ## Clonar o repositório
 
-Para rodar o programa, primeiro é necessário clonar este repositório e compilar os arquivos .c, para isso, basta rodar os comandos abaixo no seu terminal:  
+Para rodar o programa, primeiro é necessário clonar este repositório e compilar o arquivo .c, para isso, basta rodar os comandos abaixo no seu terminal:  
 
 ```bash
 $ git clone https://github.com/jpedro7/threads-matriz.git
