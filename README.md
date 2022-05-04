@@ -30,7 +30,7 @@ O comando `make` vai compilar o código em um executável
 ```bash
 $ make run
 ```
-O comando `make run` vai rodar o executável criado pelo comando acima  
+O comando `make run` vai rodar o executável criado
 
 ```bash
 $ make clean
